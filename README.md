@@ -8,9 +8,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunzendorff&layout=compact&hide_border=true&title_color=ef8de1&text_color=ef8de1&bg_color=0d1117" />
 </div>
 
+<div align="center"><hr></div>
+
 ### :mailbox_with_no_mail: Contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ana-kunzendorff)
-
-<div align="center"><hr></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef8de1&height=120&section=footer"/>
