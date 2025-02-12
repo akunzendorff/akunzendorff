@@ -10,7 +10,8 @@
 
 <div align="center"><hr></div>
 
-### :mailbox_with_no_mail: Contato:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ana-kunzendorff)
+<div align="center"> 
+<a href="https://www.linkedin.com/in/ana-kunzendorff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef8de1&height=120&section=footer"/>
